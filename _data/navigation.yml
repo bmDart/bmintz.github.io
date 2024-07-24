@@ -7,7 +7,7 @@ main:
     url: /teaching/    
 
   - title: "CV"
-    url: /cv/
+    url: https://bmdart.github.io/bmintz.github.io//files/brian-mintz_cv-resume_jan-23.pdf #/cv/
 
   - title: "Talks"
     url: /talks/    
