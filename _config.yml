@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Brian's Site"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Brian Mintz"
-description              : &description "Home"
+description              : &description "Webpage for Brian Mintz"
 url                      : https://bmdart.github.io/bmintz.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
