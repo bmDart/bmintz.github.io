@@ -1,6 +1,6 @@
 ---
 title: "Baking"
-excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//files/pie_1a.jpg' style='width:200px;height:200px;'>      <img src='https://bmdart.github.io/bmintz.github.io//files/Latin and Euler square cookies.jpg' style='width:200px;height:200px;'> "      " <img src='https://bmdart.github.io/bmintz.github.io//files/pie-2.jpg' style='width:200px;height:200px;'>"
+excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//files/pie_1a.jpg' style='width:200px;height:200px;'>      <img src='https://bmdart.github.io/bmintz.github.io//files/Latin and Euler square cookies.jpg' style='width:200px;height:200px;'> '     ' <img src='https://bmdart.github.io/bmintz.github.io//files/pie-2.jpg' style='width:200px;height:200px;'>"
 collection: portfolio
 ---
 
