@@ -6,9 +6,9 @@ collection: portfolio
 
 These pies are inspired by Lauren Ko, author of Piometry, whose book was helpful in making these. They are joint work with Elizabeth Buchanan, Beth-Anne Castellano, and Alex Wilson. Each represents a different mathematical concept.
 
-# ![image alt >](https://bmdart.github.io/bmintz.github.io//files/pie_1a.jpg)
+![image alt >](https://bmdart.github.io/bmintz.github.io//files/pie_1a.jpg)
 
-The first is a random tiling of the "Aztec diamond" by dominos, color coded by their orientation. One of the artic circle theorems says that a randomly selected tiling will have a circle of randomness, surrounded by "frozen" sections at the corners, where all pieces have the same orientation. <img src='https://bmdart.github.io/bmintz.github.io//files/pie_1a.jpg' style='width:300px;height:300px;' align='right'>
+The first is a random tiling of the "Aztec diamond" by dominos, color coded by their orientation. <img src='https://bmdart.github.io/bmintz.github.io//files/pie_1a.jpg' style='width:300px;height:300px;' align='right'> One of the artic circle theorems says that a randomly selected tiling will have a circle of randomness, surrounded by "frozen" sections at the corners, where all pieces have the same orientation. 
 
 ![image alt <](https://bmdart.github.io/bmintz.github.io//files/pie-2.jpg)
 
