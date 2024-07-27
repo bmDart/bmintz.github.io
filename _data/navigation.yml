@@ -9,11 +9,11 @@ main:
   - title: "CV"
     url: https://bmdart.github.io/bmintz.github.io//files/brian-mintz_cv-resume_jan-23.pdf #/cv/
 
-  - title: "Talks"
+  - title: "Outreach"
     url: /talks/    
     
-  - title: "Outreach"
-    url: /outreach/  
+  #- title: "Outreach"
+  #  url: /outreach/  # didn't work for some reason?
     
   - title: "Math Art"
     url: /portfolio/
