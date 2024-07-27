@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "How norms shape the evolution of prosocial behavior. Compassion, Universalizability, Reciprocity, Equity: A C.U.R.E for social dilemmas"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Picture'
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Proceedings of the Royal Society B'
+slidesurl: 'TBD'
+paperurl: 'https://arxiv.org/abs/2401.13015'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+How cooperation evolves and particularly maintains at a large scale remains an open problem for improving humanity across domains ranging from climate change to pandemic response. To shed light on how behavioral norms can resolve the social dilemma of cooperation, here we present a formal mathematical model of individuals' decision making under general social norms, encompassing a variety of concerns and motivations an individual may have beyond simply maximizing their own payoffs. Using the canonical game of the Prisoner's Dilemma, we compare four different norms: compassion, universalizability, reciprocity, and equity, to determine which social forces can facilitate the evolution of cooperation, if any. We analyze our model through a variety of limiting cases, including weak selection, low mutation, and large population sizes. This is complemented by computer simulations of population dynamics via a Fisher process, which confirm our theoretical results. We find that the first two norms lead to the emergence of cooperation in a wide range of games, but the latter two do not on their own. Due to its generality, our framework can be used to investigate many more norms, as well as how norms themselves emerge and evolve. Our work complements recent work on fair-minded learning dynamics and provides a useful bottom-up perspective into understanding the impact of top-down social norms on collective cooperative intelligence.
+
+Accepted for publication at Proceedings of the Royal Society B
