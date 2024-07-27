@@ -1,5 +1,5 @@
 ---
-title: "How norms shape the evolution of prosocial behavior. Compassion, Universalizability, Reciprocity, Equity: A C.U.R.E for social dilemmas"
+title: "How norms shape the evolution of prosocial behavior, Compassion, Universalizability, Reciprocity, Equity: A C.U.R.E for social dilemmas"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//images/key-figure_cure.png' style='height:300px;' >"
