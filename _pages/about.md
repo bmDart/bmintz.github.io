@@ -7,8 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently working with Feng Fu at Dartmouth College. 
+I am currently working with Professor Feng Fu at Dartmouth College. 
 
-I study how mathematics can be used to understand complex behaviors, in particular how game theory and evolutionary approaches can provide insight into complex behaviors like cooperation and stuff. Blurb.
+I study how mathematics, specifically game theory and evolutionary modeling, can be used to understand the emergence and spread of complex behaviors like cooperation and learning. 
 
-More of my work is described in the I am also passionate about outreach and mathematical art. PICTURES
+In addition to this, I enjoy mathematics <a hreaf='https://bmdart.github.io/bmintz.github.io//teaching/'>teaching</a> and <a href='https://bmdart.github.io/bmintz.github.io//teaching/'>outreach</a>. This site also lists some of the <a href='https://bmdart.github.io/bmintz.github.io//portfolio/'>mathematical art</a> colleagues and I have made. 
+
+<img src='https://bmdart.github.io/bmintz.github.io//files/temari-tilinks.jpg' style='height:300px;'> 
+<img src='https://bmdart.github.io/bmintz.github.io//files/nested-rt-2_from-REU.gif' style='height:300px;'> 
+<img src='https://bmdart.github.io/bmintz.github.io//files/pie_1a.jpg' style='height:300px;'> 
