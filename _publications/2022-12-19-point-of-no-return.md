@@ -2,7 +2,7 @@
 title: "The Point of No Return: Evolution of Excess Mutation Rate Is Possible Even for Simple Mutation Models"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '<img src='https://bmdart.github.io/bmintz.github.io//images/key-figure_MR-0.png' style='height:300px;' >'
+excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//images/key-figure_MR-0.png' style='height:300px;' >"
 date: 2022-12-19
 venue: 'MDPI Mathematics 1'
 slidesurl: 'TBD'
