@@ -3,7 +3,7 @@ title: "How norms shape the evolution of prosocial behavior, Compassion, Univers
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//images/key-figure_cure.png' style='height:300px;' >"
-date: 2024
+date: 2024-10-10
 venue: 'Proceedings of the Royal Society B'
 slidesurl: 'TBD'
 paperurl: 'https://arxiv.org/abs/2401.13015'
