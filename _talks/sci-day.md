@@ -1,6 +1,7 @@
 ---
 title: "Science Days, 2023 and 2024"
 collection: talks
+excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//images/hackenbush-game.png' style='height:300px;'>"
 permalink: /talks/science
 venue: "Dartmouth College"
 ---
