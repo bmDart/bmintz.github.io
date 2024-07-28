@@ -13,4 +13,4 @@ I also prepared a <a href='https://bmdart.github.io/bmintz.github.io//files/ti-l
 
 <img src='https://bmdart.github.io/bmintz.github.io//images/family-day-poster.png' style='height:300px;'>
 
-In addition to these, I exhibited some related art I made: <a href='https://bmdart.github.io/bmintz.github.io//portfolio/temari/'>temari balls</a> and <a href='https://bmdart.github.io/bmintz.github.io//portfolio/temari/'>laser cut polyhedra. </a>
+In addition to these, I exhibited some related art I made: <a href='https://bmdart.github.io/bmintz.github.io//portfolio/temari/'>temari balls</a> and <a href='https://bmdart.github.io/bmintz.github.io//portfolio/ti-links/'>laser cut polyhedra. </a>
