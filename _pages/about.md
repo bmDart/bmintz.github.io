@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently working with Professor Feng Fu at Dartmouth College. 
 
-My research uses game theory and evolutionary modeling to understand the emergence and spread of complex behaviors like cooperation and learning. This is an interdisciplinary subject with applications to many fields including psychology, economics, and biology. 
+My <a href='https://bmdart.github.io/bmintz.github.io//publications/'>research</a> uses game theory and evolutionary modeling to understand the emergence and spread of complex behaviors like cooperation and learning. This is an interdisciplinary subject with applications to many fields including psychology, economics, and biology. 
 
 I also greatly enjoy mathematics <a href='https://bmdart.github.io/bmintz.github.io//teaching/'>teaching</a> and <a href='https://bmdart.github.io/bmintz.github.io//talks/'>outreach</a>. This site also details some of the <a href='https://bmdart.github.io/bmintz.github.io//portfolio/'>mathematical art</a> colleagues and I have made. 
 
