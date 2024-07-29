@@ -1,8 +1,10 @@
 ---
-title: "Courses Taught"
+title: "Experience"
 collection: teaching
 permalink: /teaching/classlist
 excerpt: "So far, I have taught three undergraduate classes, around 100  students. "
+date: '2022-present'
+venue: 'Dartmouth College'
 ---
 
 <u>Primary course instructor</u>:
