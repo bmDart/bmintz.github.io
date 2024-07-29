@@ -3,7 +3,7 @@ title: "Experience"
 collection: teaching
 permalink: /teaching/classlist
 excerpt: "So far, I have taught three undergraduate classes, around 100  students. "
-date: '2022-present'
+date: '2023-present'
 venue: 'Dartmouth College'
 ---
 
