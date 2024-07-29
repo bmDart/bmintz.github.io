@@ -1,5 +1,5 @@
 ---
-title: "Summer Youth Math Camp"
+title: "Summer Youth Math Camp 2022"
 collection: talks
 permalink: /talks/math-camp
 excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//images/prob-paradoxes_title.png' style='height:300px;'> "
