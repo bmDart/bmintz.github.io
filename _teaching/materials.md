@@ -1,5 +1,5 @@
 ---
-title: "Example Materials"
+title: "Selected Materials"
 collection: teaching
 permalink: /teaching/materials
 excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//files/networks.png' style='height:300px;' >"
