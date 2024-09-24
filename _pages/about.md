@@ -11,7 +11,7 @@ I am currently a 5th year PhD student in the Applied Math department at Dartmout
 
 My <a href='https://bmdart.github.io/bmintz.github.io//publications/'>research</a> uses game theory and evolutionary modeling to understand the emergence and spread of complex behaviors like cooperation and learning. This subject has applications to many fields including psychology, economics, and biology. 
 
-I greatly enjoy mathematics <a href='https://bmdart.github.io/bmintz.github.io//teaching/'>teaching</a> and <a href='https://bmdart.github.io/bmintz.github.io//talks/'>outreach</a>, the preceding pages have information about my work in each of these. 
+I am strongly committed to mathematics <a href='https://bmdart.github.io/bmintz.github.io//teaching/'>teaching</a> and <a href='https://bmdart.github.io/bmintz.github.io//talks/'>outreach</a>, these pages have information about my work in each of these. 
 
 This site also details some of the <a href='https://bmdart.github.io/bmintz.github.io//portfolio/'>mathematical art</a> colleagues and I have made. 
 
