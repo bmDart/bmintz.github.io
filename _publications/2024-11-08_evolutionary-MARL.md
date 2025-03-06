@@ -3,8 +3,8 @@ title: "Evolutionary Multi-agent Reinforcement Learning in Group Social Dilemmas
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//files/strat-over-time.png' style='height:300px;' >"
-date: 2024-11-08
-venue: 'TBD'
+date: 2025-2-12
+venue: 'Chaos: A Journal of Nonlinear Science'
 slidesurl: 'https://bmdart.github.io/bmintz.github.io//files/JMM-MARL-talk.pdf'
 paperurl: 'https://bmdart.github.io/bmintz.github.io//files/Evolution_in_MARL___Chaos_Special_Issue_v1.pdf'
 ---
