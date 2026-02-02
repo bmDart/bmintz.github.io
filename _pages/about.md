@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 5th year PhD student in the Applied Math department at Dartmouth College working with Professor <a href='https://faculty-directory.dartmouth.edu/feng-fu'>Feng Fu</a>. 
+I am currently a Postdoctoral Researcher at the <a href='https://ithems.riken.jp/en'>Center for Interdisciplinary Theoretical and Mathematical Sciences</a> of RIKEN National Lab, Tokyo, working with <a href='https://yohm.github.io/'>Yohsuke Murase</a>. In 2025, I completed a PhD in the Applied Math department at Dartmouth College advised by Professor <a href='https://faculty-directory.dartmouth.edu/feng-fu'>Feng Fu</a>. 
 
 My <a href='https://bmdart.github.io/bmintz.github.io//publications/'>research</a> uses game theory and evolutionary modeling to understand the emergence and spread of complex behaviors like cooperation and learning. This subject has applications to many fields including biology, economics, computer science, psychology, ecology, and sociology. The below figure illustrates the main work of my dissertation.  
 
