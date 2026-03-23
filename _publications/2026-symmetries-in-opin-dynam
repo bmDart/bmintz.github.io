@@ -1,0 +1,12 @@
+---
+title: "When minor issues matter: symmetries, pluralism, and polarization in similarity-based opinion dynamics"
+collection: publications
+permalink: https://arxiv.org/abs/2603.04939
+excerpt: "<img src='https://bmdart.github.io/bmintz.github.io//images/symmetry-figure_7.png' style='height:300px;' >"
+date: 2026
+venue: 'Preprint on Arxiv'
+slidesurl: 'TBD'
+paperurl: 'https://arxiv.org/abs/2603.04939'
+---
+
+Polarization is a problem in modern society. Understanding how opinions evolve through social interactions is crucial for addressing conditions that lead to polarization, consensus, or opinion diversity. Classical opinion dynamics models have explored bounded confidence and homophily, but most assume equal issue importance and purely attractive forces. We extend these frameworks by developing a stochastic agent-based model where individuals hold binary opinions on multiple issues of heterogeneous weights and interact through both attraction (with similar others) and repulsion (from dissimilar others). Our model reveals that the similarity threshold determining friend-or-foe interactions fundamentally shapes outcomes, which in this model can be of three types: consensus, polarization, and persistent pluralism, where each opinion combination occurs in the population. Low thresholds promote consensus, while high thresholds lead to polarization or persistent pluralism. Surprisingly, introducing even a single issue of arbitrarily small weight can destabilize stable states, thus changing the solution type and increasing convergence times by orders of magnitude. To explain these phenomena, we derive a deterministic system of ordinary differential equations and analyze equilibrium symmetries. For up to five-issue systems, we provide a complete characterization: all weight configurations fall into a number of cases, each exhibiting distinct symmetry cascades as the threshold varies. Our analysis shows polarization risk increases when importance concentrates on few issues. This suggests mitigation strategies: fostering cross-cutting social ties, broadening discourse beyond core issues, and introducing new topics to disrupt polarization. The symmetry-based framework reveals how issue salience and social tolerance jointly shape collective opinion evolution
